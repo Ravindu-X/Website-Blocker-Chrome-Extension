@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
   "name": "Custom Website Blocker",
-  "version": "1.0",
-  "description": "Redirects you from Facebook to YouTube",
+  "version": "1.01",
+  "description": "A Website Blocker For Productivity ✌️",
   "permissions": ["activeTab", "tabs"],
   "icons": {
     "16": "icon16.png",
