@@ -1,6 +1,6 @@
 # Website Blocker-Chrome Extension      ![output-onlinegiftools (1)](https://github.com/Ravindu-X/Website-Blocker-Chrome-Extension/assets/169304353/4abb6aac-7beb-4cb3-8385-72a50288e55c ) 
 
-A Chrome Extension what can block custom websites and redirect to a blank web page.
+A Chrome Extension what can block custom websites and redirect to a custom web page. The redirection web page can be customizable as user want.
 <br>
 <br>
 This extension effectively blocks access to website what you already added to blocklist by redirecting any attempt to open the website to a local "index.html" page. You can modify that index.html page as you wish.<br><br>
